@@ -5,6 +5,7 @@ using AndroidX.RecyclerView.Widget;
 using Microsoft.Maui;
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Controls.Handlers.Items;
+using Microsoft.Maui.Platform;
 
 namespace ReorderableCollectionView.Maui
 {
