@@ -6,6 +6,7 @@ using UIKit;
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Controls.Handlers.Items;
 using Microsoft.Maui.Graphics;
+using ObjCRuntime;
 
 namespace ReorderableCollectionView.Maui
 {
